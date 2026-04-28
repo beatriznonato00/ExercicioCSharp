@@ -1,5 +1,20 @@
 <Solution>
+  <Folder Name="/Lista03/">
+    <File Path="ex33/Program.cs" />
+    <Project Path="ex31/ex31.csproj" Id="b7abf9df-ef81-4ee4-a3cd-1e65b1bbdcc3" />
+    <Project Path="ex32/ex32.csproj" Id="13d09e2f-962a-4ec4-9161-27657687be7c" />
+    <Project Path="ex33/ex33.csproj" Id="a3b92775-463b-4b50-ad9b-a938d6b82c03" />
+    <Project Path="ex34/ex34.csproj" Id="166afefa-3ba1-46dc-8eee-504b9e5e33f1" />
+    <Project Path="ex35/ex35.csproj" Id="68962e16-fc42-4218-a4ed-25920a125f58" />
+    <Project Path="ex36/ex36.csproj" Id="4807e995-f815-4674-b08a-d4ffb7057a1d" />
+    <Project Path="ex37/ex37.csproj" Id="91ace2a8-b56b-4b21-a1cb-a451082f7311" />
+    <Project Path="ex38/ex38.csproj" Id="ea291e6e-cae7-455c-9636-8a3303196e49" />
+    <Project Path="ex39/ex39.csproj" Id="dc7f6ae8-c290-479c-904c-d5cb3583aed1" />
+    <Project Path="ex40/ex40.csproj" Id="e2bfc9e0-0936-4516-86d4-643978f46c83" />
+    <Project Path="exe41/exe41.csproj" Id="bb0124b1-d485-4051-80b1-3d779a3678ee" />
+  </Folder>
   <Folder Name="/Material/">
+    <Project Path="NotaDoAluno/NotaDoAluno.csproj" Id="02286e7d-7515-430f-8f77-a03ca2c6d4a1" />
     <Project Path="OlaMundo/OlaMundo.csproj" />
     <Project Path="SaidaDeValoresTabuada/SaidaDeValoresTabuada.csproj" Id="10af8db3-051c-4e30-92c5-a200f16aca07" />
   </Folder>
